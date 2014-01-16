@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Matthew Jones
 tagline:          '@metamattj on software and data'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Director of Informatics Research and Development at <a href="http://www.nceas.ucsb.edu" target="_blank">NCEAS</a>.'
 url:              http://matt.magisa.org
 
 author:
@@ -19,6 +19,9 @@ paginate:         5
 
 # Custom vars
 version:          2.0.0
+
+twitter:
+  url:           https://twitter.com/metamattj
 
 github:
   repo:           https://github.com/mbjones
