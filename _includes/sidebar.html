@@ -26,9 +26,11 @@
         {% endif %}
       {% endfor %}
 
-      <li class="sidebar-nav-item">Email: <a href="mailto:jones@nceas.ucsb.edu">jones@nceas.ucsb.edu</a></li>
-      <li class="sidebar-nav-item">Twitter: <a href="{{ site.twitter.url }}">@metamattj</a></li>
-      <li class="sidebar-nav-item">Github: <a href="{{ site.github.repo }}">mbjones</a></li>
+      <li class="sidebar-nav-item">&nbsp;</li>
+      <li class="sidebar-nav-item">Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+      <li class="sidebar-nav-item">Twitter: <a href="{{ site.twitter.url }}">{{ site.twitter.nick }}</a></li>
+      <li class="sidebar-nav-item">Github: <a href="{{ site.github.repo }}">{{ site.github.user }}</a></li>
+      <li class="sidebar-nav-item">ORCID: <a href="{{ site.orcid.url }}">{{ site.orcid.id }}</a></li>
     </ul>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
