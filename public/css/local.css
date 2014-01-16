@@ -26,8 +26,14 @@
  * New global styles
  */
 
+/* Float (images) to the left */
+.justify_left {
+  float: left;
+  margin: 1rem 1rem 0 0;
+}
+
 /* Float (images) to the right */
 .justify_right {
   float: right;
-  padding-left: 5px;
+  margin: 1rem 0 0 1rem;
 }
