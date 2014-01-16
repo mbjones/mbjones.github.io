@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vita
+title: Curr. Vita
 ---
 
 Matthew B. Jones
