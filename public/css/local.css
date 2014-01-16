@@ -37,3 +37,14 @@
   float: right;
   margin: 1rem 0 0 1rem;
 }
+
+/* Theme colors */
+
+/* Deep Brown */
+.theme-base-07 .sidebar {
+  background-color: #362C20;
+}
+.theme-base-07 .content a,
+.theme-base-07 .related-posts li a:hover {
+  color: #fc0;
+}
