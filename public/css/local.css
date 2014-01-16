@@ -1,0 +1,22 @@
+/*
+ * Local CSS Overrides
+ */
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+/*
+ * Sidebar
+ */
+
+/* About section */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Oswald", serif;
+  font-size: 1.75rem;
+}

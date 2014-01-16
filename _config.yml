@@ -22,11 +22,11 @@ paginate:         5
 version:          2.0.0
 
 twitter:
-  nick:           @metamattj
+  nick:           '@metamattj'
   url:            https://twitter.com/metamattj
 
 github:
-  user:           mbjones
+  user:           'mbjones'
   url:            https://github.com/mbjones
 
 orcid:
