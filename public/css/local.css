@@ -74,7 +74,7 @@ body.theme-base-07 {
   font-size: 14px;
   padding: 0.5em 1em;
   text-shadow: none;
-  text-transform: uppercase;
+  color: #fc0;
   transition: all .25s;
    -moz-transition: all .25s;
    -webkit-transition: all .25s;
