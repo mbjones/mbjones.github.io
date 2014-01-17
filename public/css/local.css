@@ -38,6 +38,11 @@
   margin: 1rem 0 0 1rem;
 }
 
+/* Round corners for message alerts */
+.message {
+  border-radius: 8px;
+}
+
 /* Theme colors */
 
 /* Deep Brown */
