@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
 <img src="{{ site.url }}/images/jones-portrait-2009.jpg" class="justify_left" /> 
