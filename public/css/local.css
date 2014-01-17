@@ -48,3 +48,6 @@
 .theme-base-07 .related-posts li a:hover {
   color: #fc0;
 }
+body .theme-base-07 {
+  background-color: rgba(121,121,121,1);
+}
