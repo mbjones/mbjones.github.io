@@ -48,7 +48,7 @@
 .theme-base-07 .related-posts li a:hover {
   color: #fc0;
 }
-.theme-base-07 body {
+body.theme-base-07 {
   background-color: #796F6F;
 }
 .theme-base-07 .content {
