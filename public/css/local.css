@@ -59,3 +59,7 @@ body.theme-base-07 {
 .theme-base-07 .content {
   color: white;
 }
+.theme-base-07 .highlight pre {
+  background-color: #3C3A34;
+  border-radius: 8px;
+}
