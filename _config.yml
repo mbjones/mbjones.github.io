@@ -2,6 +2,9 @@
 markdown:         redcarpet
 highlighter:      pygments
 
+# Gems
+gems:             ['jekyll/scholar']
+
 # Permalinks
 permalink:        pretty
 
@@ -36,3 +39,25 @@ orcid:
 impact:
   id:             MatthewBJones
   url:            https://impactstory.org/MatthewBJones
+
+# Jekyll scholar
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: ./_bibliography
+  bibliography: mbjones.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
