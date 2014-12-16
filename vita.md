@@ -86,4 +86,3 @@ Santa Barbara, CA 93101
 
 ## Publications
 
-{% bibliography --file mbjones %}
