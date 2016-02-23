@@ -1,0 +1,66 @@
+
+I hereby claim:
+
+  * I am an admin of http://matt.magisa.org
+  * I am mbjones (https://keybase.io/mbjones) on keybase.
+  * I have a public key with fingerprint AF42 17D9 18A4 4581 2B07  0682 6D3F 2BB3 48B5 8AF7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "af4217d918a445812b0706826d3f2bb348b58af7",
+            "host": "keybase.io",
+            "key_id": "6D3F2BB348B58AF7",
+            "uid": "248130cb5ae54e763f5ece5b3f4c3400",
+            "username": "mbjones"
+        },
+        "merkle_root": {
+            "ctime": 1418769248,
+            "hash": "c28cff355334a4922e40926277624980e81301c2695bf3f36d61dacbeb51124ee58ea3d940b86958ff0fd4ee539fd5f4ced8b3483f2725c6849e5de8e283b519",
+            "seqno": 111006
+        },
+        "service": {
+            "hostname": "matt.magisa.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418769268,
+    "expire_in": 157680000,
+    "prev": "ae7eda846d9fdb0108cca2da6ee70a324b2920a4af63f8c0c019e4402358be89",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkr1rFEEYxtf4AYYEjJY2cREsPI753pkDEQ8JVtrE+piPdy6T5HYuu5tojEHt
+xCpYWImlrUWwEawsROI/INhY+hfYOnMkEN1qdub3PvM87zsHi2eLuaXJ7ZuH9z6+
++nPm6LcpVg8Ou73SRLdbDvZKuxmg7vKq1hMoB+UG7BrdQj/E5To66K+3y8dMr9yB
+pg2xThTqV31a7vcynot9qMfQTJuQtUrtGcGVU1hqxrjExKAKCUmEo54YQ5k0XGpf
+Jcm12Hb/3FrONEfBpV1xl66Q4TDxQy7vrGR+e3ZAmMQUWcM1cAaVoJ6DBW6oZ5Yy
+hDLYQnMcaWLWYw1ttjuBZmMTRk2Ms8y2C5nADMtKqKSaDOl2LdVYIq33lHNKmWaK
+EGBIEUGqShCmJIJsAFsiFDeeeiqcwE5bA4ZjTBgAl6CpUwwZmRjpPfIub1PlHU82
+wcnciNSQinArJFPAHUggkiYJlRK0sFXHZA5jhMR+/m92goXsO3ftJJzuuv5Ej0Or
++7EZp7ppE7to42Y6XOu66SDn7nanGX4EH8zoWGdkQu3S2E7PFSf0v56I1BN4PA0N
+jEImeCUkSl++B3bysKECpyUTLiUzCCNprSZOC4AKaUqYIYogzbRPY5IWWYQVMIYI
+5dKAPJVUJZ96nCTbMK51t91Auf9y5VyxNFdcOD+X320xf/HSyWPmL4p3t46G6Mr9
+Tz+v/bp+ef41e/Lw+feueLvwfmHxxoOvg2ffnn6++uNL7w1d3f4L
+=1ny8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mbjones
+
