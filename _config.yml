@@ -1,9 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
 
 # Gems
-gems:             ['jekyll/scholar']
+gems:             [jekyll/scholar, jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
