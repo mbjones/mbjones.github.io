@@ -85,4 +85,4 @@ Santa Barbara, CA 93101
 - Kepler: Scientific Workflow System, http://kepler-project.org/, versions 1.0.0alpha1-9, 1.0.0beta1, 1.0.0beta2, 1.0.0beta3, 1.0.0, 2.0.0, 2.1.0, 2.2.0
 
 ## Publications
-
+{% bibliography %}
