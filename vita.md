@@ -75,10 +75,14 @@ Santa Barbara, CA 93101
 
 
 ## Software
-- Ecological Metadata Language, http://knb.ecoinformatics.org/software/eml/ (released versions 1.0, 1.1, 1.2, 1.3, 1.4, 1.4.1, 2.0.0, 2.0.1, 2.1.0)
-- Morpho: Data Management Software for Ecologists, http://knb.ecoinformatics.org/software/morpho/, versions 1.0, 1.1, 1.2, 1.2.1, 1.3, 1.4, 1.5, 1.5.1, 1.6, 1.6.1, 1.7.0, 1.8.0, 1.9.0, 1.9.1
-- Metacat: Metadata Catalog Server, http://knb.ecoinformatics.org/software/metacat/, versions 1.0, 1.1, 1.2, 1.3, 1.4, 1.4.1, 1.5, 1.6, 1.7, 1.8, 1.8.1, 1.9.1, 1.9.2, 1.9.3, 1.9.4
-- Kepler: Scientific Workflow System, http://kepler-project.org/, versions 1.0.0alpha1-9, 1.0.0beta1, 1.0.0beta2, 1.0.0beta3, 1.0.0, 2.0.0, 2.1.0, 2.2.0
+- Ecological Metadata Language, http://knb.ecoinformatics.org/software/eml/ (released versions 1.0, 1.1, 1.2, 1.3, 1.4, 1.4.1, 2.0.0, 2.0.1, 2.1.0, 2.1.1)
+- Morpho: Data Management Software for Ecologists, http://knb.ecoinformatics.org/software/morpho/, versions 1.0, 1.1, 1.2, 1.2.1, 1.3, 1.4, 1.5, 1.5.1, 1.6, 1.6.1, 1.7.0, 1.8.0, 1.9.0, 1.9.1, 1.10.0, 1.10.1, 1.10.2, 1.10.3, 1.11.0, 1.11.1)
+- Metacat: Metadata Catalog Server, http://knb.ecoinformatics.org/software/metacat/, versions 1.0, 1.1, 1.2, 1.3, 1.4, 1.4.1, 1.5, 1.6, 1.7, 1.8, 1.8.1, 1.9.1, 1.9.2, 1.9.3, 1.9.4, 1.9.5, 2.0.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, 2.0.5, 2.0.6, 2.0.7, 2.0.8, 2.1.0, 2.1.1, 2.2.0, 2.2.1, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.4.2, 2.4.3, 2.5.1, 2.6.0, 2.7.0, 2.7.1, 2.7.2)
+- Kepler: Scientific Workflow System, http://kepler-project.org/, versions 1.0.0alpha1-9, 1.0.0beta1, 1.0.0beta2, 1.0.0beta3, 1.0.0, 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.4.0, 2.5.0)
+- Jones M, Slaughter P, Nahf R, Jones C, Boettiger C, Walker L, Hallett L, Chamberlain S, Hart E and Read J (2016). dataone: R Interface to the DataONE REST API. doi: 10.5063/F1M61H5X, R package version 2.0.1, http://github.com/DataONEorg/rdataone 
+- Jones M, Slaughter P, Ooms J, Boettiger C and Chamberlain S (2016). redland: RDF Library Bindings in R. doi: 10.5063/F1VM496B (URL: http://doi.org/10.5063/F1VM496B), R package version 1.0.17-8, <URL:
+https://github.com/ropensci/redland-bindings/tree/master/R/redland>.
+- Hallett L, Jones S, MacDonald A, Flynn D, Slaughter P, Ripplinger J, Collins S, Gries C and Jones M (2016). _codyn: Community Dynamics Metrics_. doi: 10.5063/F1542KJB (URL: http://doi.org/10.5063/F1542KJB), R package version 1.1.0, <URL: https://github.com/laurenmh/codyn>.
 
 ## Publications
 {% bibliography %}
