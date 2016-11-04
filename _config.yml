@@ -46,13 +46,16 @@ keybase:
 scholar:
   style: apa
   locale: en
+  repository: pubs
 
   sort_by: year
   order: descending
 
   source: ./_bibliography
   bibliography: mbjones.bib
-  bibliography_template: "{{reference}}"
+  #bibliography_template: "{{reference}}"
+  #bibliography_template: "{{reference}} {% if entry.pdf %} <span><a href='{{ entry.pdf }}'>pdf</a></span> {% endif %}"
+  bibliography_template: "{{entry.pdf}} {{reference}} {%if links.pdf %} [<a href='{{links.pdf}}'>pdf</a>] {% endif %} {% if entry.url %} [<a href='{{ entry.url }}'>link</a>] {% endif %}"
 
   replace_strings: true
   join_strings:    true
@@ -60,6 +63,7 @@ scholar:
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
+
 
   query: "@*"
 
